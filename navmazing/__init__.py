@@ -247,7 +247,7 @@ class NavigateStep(object):
         pass
 
     def step(self, *args, **kwargs):
-        """Describes the work to be done to get to the destination after the prequisite is met.
+        """Describes the work to be done to get to the destination after the prerequisite is met.
 
         This is a default and is generally overridden.
         """
